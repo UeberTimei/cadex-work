@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import { useFrame } from "@react-three/fiber";
 import { BoxDimensions } from "../types";
 import { Mesh } from "three";
 
