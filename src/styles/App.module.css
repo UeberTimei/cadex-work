@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 100vh;
+}
+
+.canvasContainer {
+  background: rgb(46, 46, 69);
+}
+
+.formContainer {
+  background: rgb(15, 18, 20);
+  padding: 30px;
+  flex: 1;
+  max-width: 30%;
+}
